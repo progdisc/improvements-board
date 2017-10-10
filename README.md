@@ -1,4 +1,4 @@
-# progdic's improvements board
+# progdisc's improvements board
 A list of projects idea for improving the server.
 Each of these has been suggested as an improvement to the server.
 Feel free to pick one if you're looking for something to work on.
