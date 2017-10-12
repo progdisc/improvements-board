@@ -22,3 +22,4 @@ Suggested sources:
 * Ars Technica
 * ACM Tech News
 * Software Development Times
+* Hacker News
